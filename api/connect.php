@@ -1,10 +1,10 @@
 <?php
 
 // db credentials
-define('DB_HOST', 'localhost');
-define('DB_USER', 'id13676396_islamapis');
-define('DB_PASS', 'asd123ASD**++');
-define('DB_NAME', 'id13676396_islamapi');
+define('DB_HOST', 'z12itfj4c1vgopf8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
+define('DB_USER', 'kbf2dxt47dvfdbnv');
+define('DB_PASS', 'bz1rj16lzhlhf0s9');
+define('DB_NAME', 'v6bh103mtrr1js6o');
 
 // Connect with the database.
 function connect() {
