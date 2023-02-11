@@ -1,10 +1,10 @@
 <?php
 
 // db credentials
-define('DB_HOST', 'c8u4r7fp8i8qaniw.chr7pe7iynqr.eu-west-1.rds.amazonaws.com');
-define('DB_USER', 'f5bvkmwltrg7ks15');
-define('DB_PASS', 'c4vuspk6l2y4zjzz');
-define('DB_NAME', 'e8m6bibij2vmgn1z');
+define('DB_HOST', 'dfkpczjgmpvkugnb.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
+define('DB_USER', 'vvbw8cuko423qqv7');
+define('DB_PASS', 'y9uijpgx9l66pjdn');
+define('DB_NAME', 'zryl6m2xf3zfk870');
 
 // Connect with the database.
 function connect() {
