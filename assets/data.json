@@ -70,5 +70,17 @@
     "link": "https://www.behance.net/gallery/148339599/FacilityLinkManagement-App",
     "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/screenshot-maint.ah.gov.sa-2022.07.17-15_58_39.png",
     "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/screenshot-maint.ah.gov.sa-2022.07.17-15_58_39.png"
+  },
+   {
+    "title": "HR",
+    "link": "https://www.behance.net/gallery/148339599/FacilityLinkManagement-App",
+    "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/hrdThum.png",
+    "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/hrdFull.png"
+  },
+    {
+    "title": "APIS (Angular)",
+    "link": "https://www.behance.net/gallery/148335945/APIS-Web-App",
+    "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/screencapture-164-92-242-241-2022-07-17-14_55_39.png",
+    "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/screencapture-164-92-242-241-2022-07-17-14_54_49.png"
   }
 ]
