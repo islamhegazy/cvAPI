@@ -2,9 +2,9 @@
 
 // db credentials
 define('DB_HOST', 'dfkpczjgmpvkugnb.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
-define('DB_USER', 'vvbw8cuko423qqv7');
-define('DB_PASS', 'y9uijpgx9l66pjdn');
-define('DB_NAME', 'zryl6m2xf3zfk870');
+define('DB_USER', 'xrnzgilyfc6m43ad');
+define('DB_PASS', 'knlq9iy4r6330mfh');
+define('DB_NAME', 'upe6l42sd679y83z');
 
 // Connect with the database.
 function connect() {
