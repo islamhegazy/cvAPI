@@ -18,10 +18,10 @@
     "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/E-visaFull.png"
   },
   {
-    "title": "Login",
+    "title": "Dubai Police survey",
     "link": "",
-    "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/w2-min.png",
-    "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/w3.png"
+    "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/Dubai Police surveyThum.png",
+    "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/Dubai Police surveyFull.png"
   },
   {
     "title": "ADIB",
@@ -35,7 +35,7 @@
     "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/Ebtkarat%20InteriorsThum.png",
     "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/Ebtkarat%20InteriorsFull.png"
   },
-    {
+  {
     "title": "Ebtkarat",
     "link": "https://www.ebtkaraat.com/",
     "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/ebThum.png",
@@ -54,6 +54,12 @@
     "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/budget preparationFull.png"
   },
   {
+    "title": "E-case Dashboard",
+    "link": "https://www.behance.net/gallery/89257379/E-case-Web-App",
+    "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/E-caseWebAppThum.png",
+    "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/E-caseWebAppFull.png"
+  },
+  {
     "title": "Blogger (Angular)",
     "link": "",
     "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/bloggerThum.png",
@@ -70,5 +76,47 @@
     "link": "https://www.behance.net/gallery/148339599/FacilityLinkManagement-App",
     "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/screenshot-maint.ah.gov.sa-2022.07.17-15_58_39.png",
     "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/screenshot-maint.ah.gov.sa-2022.07.17-15_58_39.png"
+  },
+  {
+    "title": "HR",
+    "link": "https://www.behance.net/gallery/148339599/FacilityLinkManagement-App",
+    "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/hrdThum.png",
+    "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/hrdFull.png"
+  },
+  {
+    "title": "Unaizh",
+    "link": "",
+    "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/screenshot-127.0.0.1_5500-2022.07.17-15_11_09-min.png",
+    "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/screenshot-127.0.0.1_5500-2022.07.17-15_10_45-min.png"
+  },
+  {
+    "title": "APIS (Angular)",
+    "link": "https://www.behance.net/gallery/148335945/APIS-Web-App",
+    "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/screencapture-164-92-242-241-2022-07-17-14_55_39.png",
+    "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/screencapture-164-92-242-241-2022-07-17-14_54_49.png"
+  },
+  {
+    "title": "Tadween App (Angular)",
+    "link": "https://www.behance.net/gallery/112967605/Tadween-App",
+    "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/t+th.png",
+    "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/screencapture-localhost-4200-2021-02-06-12_34_02.png"
+  },
+  {
+    "title": "MonieWire App (Angular)",
+    "link": "https://www.behance.net/gallery/112967605/Tadween-App",
+    "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/aa.png",
+    "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/Web capture_17-7-2022_105643_localhost.png"
+  },
+  {
+    "title": "Choice App (Angular)",
+    "link": "",
+    "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/Choice-thum.png",
+    "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/Choice-full.png"
+  },
+  {
+    "title":"Kahramaa (Angular)",
+    "link": "",
+    "thum": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/Kahramaa",
+    "fullimage": "https://raw.githubusercontent.com/islamhegazy/cvAPI/master/api/upload/Kahramaa.png"
   }
 ]
